@@ -16,7 +16,7 @@ I also maintain a blog - you can find my articles on my website at [edenchan.sub
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eden-chan&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
 </a> -->
 <a href="https://github.com/eden-chan">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=eden-chan&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Eden's GitHub Stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=eden-chan&show_icons=true&line_height=27&count_private=true&theme=tokyonight" alt="Eden's GitHub Stats" />
 </a>
 
 <!-- <a href="https://github.com/eden-chan/...">
@@ -26,16 +26,15 @@ I also maintain a blog - you can find my articles on my website at [edenchan.sub
 
  
 
-<!-- links to social media icons -->
 
 
-<!-- icons without padding -->
 
+<!-- Social Media Icons -->
 
 [1.1]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png (LinkedIn)
 
 
-<!-- links to your social media accounts -->
+<!-- links to social media accounts -->
 
 [1]: https://www.linkedin.com/in/edenchan50/
 [2]: https://github.com/eden-chan
