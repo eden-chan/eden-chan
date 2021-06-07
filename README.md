@@ -35,7 +35,7 @@ I also maintain a blog - you can find my articles on my website at [edenchan.sub
 <a href="https://www.instagram.com/eden_and_enow/"> 
 <img src="https://raw.githubusercontent.com/eden-chan/eden-chan/main/assets/instagram.svg " height="40em" align="center" alt="Instagram" title="Instagram"/></a>
 
-<a href="https://www.edenchan.substack.com/ "> 
+<a href="https://edenchan.substack.com "> 
 <img src="https://raw.githubusercontent.com/eden-chan/eden-chan/main/assets/substack.png " height="40em" align="center" alt="Substack" title="Substack"/></a>
 
 
