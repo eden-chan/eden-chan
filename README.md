@@ -20,10 +20,10 @@ I also maintain a blog - you can find my articles on my website at [edenchan.sub
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=eden-chan&show_icons=true&line_height=27&count_private=true&theme=tokyonight" alt="Eden's GitHub Stats" />
 </a>
 
-<a href="https://github.com/eden-chan/...">
+<a href="https://github.com/eden-chan/rek">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=eden-chan&repo=rek&theme=react" />
 </a>
-<a href="https://github.com/eden-chan/...">
+<a href="https://github.com/LemonFace0309/Study-Space">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=eden-chan&repo=Study-Space&theme=react" />
 </a>
 
