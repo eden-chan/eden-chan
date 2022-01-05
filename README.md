@@ -3,7 +3,7 @@
 
 # Hi there, I'm Eden <img src="https://raw.githubusercontent.com/eden-chan/eden-chan/main/assets/wave.gif" width="30px">
 
-🎓 I'm a CS student @ University of Waterloo on co-op as a Full Stack Dev. <br>
+🎓 I'm a CS student @ University of Waterloo on co-op as a Frontend Engineer @reebee. <br>
 
 
 ## &#x270d; Writing
