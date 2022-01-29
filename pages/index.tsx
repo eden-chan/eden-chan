@@ -1,6 +1,5 @@
 import Typed from 'typed.js'
-
-import { useEffect, useRef } from 'react'
+import { useState, useEffect, useRef } from 'react'
 import type { NextPage } from 'next'
 import Image from 'next/image'
 import Head from 'next/head'
@@ -9,21 +8,36 @@ const Home: NextPage = () => {
 
   // Create reference to store the DOM element containing the animation
   const el = useRef<HTMLElement>(null);
+  const [listedText, setListedText] = useState<string[]>([]);
+  const [counter, setCounter] = useState<number>(0)
   // Create reference to store the Typed instance itself
   const typed = useRef<Typed>(null);
+  const typedStrings = [
+    'to build things on the web',
+    'to write about things',
+    'to create music, or at least I hope it\'s music',
+  ]
+
+  const onStringTyped = (pos: number) => {
+
+
+    // TODO: Only set for the first numbers, setCounter is not working too hot
+    console.log(`typing string #${pos} counter=${counter}:`, typedStrings[pos])
+    setCounter(counter => counter + 1)
+    if (counter < typedStrings.length) {
+      setListedText(listedText => [...listedText, typedStrings[pos]])
+    }
+
+  }
 
   useEffect(() => {
     const options = {
-      strings: [
-        'to build things on the web',
-        'to write about things',
-        'to create music, or at least I hope it&apos;s music',
-        'to build things on the web',
-        'to write about things',
-        'to create music, or at least I hope it&apos;s music'
-      ],
+      strings: typedStrings,
       typeSpeed: 50,
       backSpeed: 25,
+      smartBackspace: true, // this is a default
+      loop: true,
+      onStringTyped: onStringTyped
     };
 
     // elRef refers to the <span> rendered below
@@ -43,7 +57,7 @@ const Home: NextPage = () => {
       <title>Eden Chan | Personal Website</title>
       <meta name="viewport" content="initial-scale=1.0, width=device-width" />
     </Head>
-    <body
+    <div
       className="bg-blue-100 w-screen h-screen flex flex-col mx-auto align-middle">
 
       <header className="bg-red-100">
@@ -62,9 +76,13 @@ const Home: NextPage = () => {
 
           <h1 className="text-3xl font-bold ">
             <span className="animate-wave inline-block">👋🏼</span>Hi, I'm Eden</h1>
-          <h2>I like <span style={{ whiteSpace: 'pre' }} ref={el} />
-          </h2>
+          <h2>I like <span style={{ whiteSpace: 'pre' }} ref={el} />  </h2>
 
+          <div>
+
+            {listedText.map((text) => <div >{text}</div>)}
+
+          </div>
 
 
         </section>
@@ -75,7 +93,7 @@ const Home: NextPage = () => {
           {/* <!-- navigation items --> */}
         </nav>
       </footer>
-    </body>
+    </div>
   </>
 }
 

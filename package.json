@@ -8,6 +8,7 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "gitmoji-cli": "^4.7.0",
     "next": "12.0.8",
     "postcss-import": "^14.0.2",
     "react": "17.0.2",
