@@ -1,4 +1,4 @@
-import Typed from 'typed.js'
+
 import { useState, useEffect, useRef } from 'react'
 import type { NextPage } from 'next'
 import Image from 'next/image'
@@ -11,45 +11,14 @@ const Home: NextPage = () => {
   const [listedText, setListedText] = useState<string[]>([]);
   const [counter, setCounter] = useState<number>(0)
   // Create reference to store the Typed instance itself
-  const typed = useRef<Typed>(null);
+
   const typedStrings = [
     'to build things on the web',
     'to write about things',
-    'to create music, or at least I hope it\'s music',
+    'to organize events',
   ]
 
-  const onStringTyped = (pos: number) => {
 
-
-    // TODO: Only set for the first numbers, setCounter is not working too hot
-    console.log(`typing string #${pos} counter=${counter}:`, typedStrings[pos])
-    setCounter(counter => counter + 1)
-    if (counter < typedStrings.length) {
-      setListedText(listedText => [...listedText, typedStrings[pos]])
-    }
-
-  }
-
-  useEffect(() => {
-    const options = {
-      strings: typedStrings,
-      typeSpeed: 50,
-      backSpeed: 25,
-      smartBackspace: true, // this is a default
-      loop: true,
-      onStringTyped: onStringTyped
-    };
-
-    // elRef refers to the <span> rendered below
-    // @ts-ignore: typed.current is mutable
-    typed.current = new Typed(el.current, options);
-
-    return () => {
-      // Make sure to destroy Typed instance during cleanup
-      // to prevent memory leaks
-      typed?.current?.destroy();
-    }
-  }, [])
 
 
   return <>
@@ -77,14 +46,8 @@ const Home: NextPage = () => {
           <h1 className="text-3xl font-bold ">
             <span className="animate-wave inline-block">👋🏼</span>Hi, I'm Eden</h1>
           <h2>I like <span style={{ whiteSpace: 'pre' }} ref={el} />  </h2>
-
           <div>
-
-            {listedText.map((text) => <div >{text}</div>)}
-
           </div>
-
-
         </section>
       </main>
       <footer className="bg-red-800">
