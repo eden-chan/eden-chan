@@ -12,34 +12,25 @@ I also maintain a blog - you can find my articles on my website at [edenchan.sub
 
 ## &#x1f4c8; GitHub Stats
 
-<!-- <a href="https://github.com/eden-chan">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eden-chan&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
-</a> -->
-
 <a href="https://github.com/eden-chan">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=eden-chan&show_icons=true&line_height=27&count_private=true&theme=tokyonight" alt="Eden's GitHub Stats" />
 </a>
 
-<!-- <a href="https://github.com/eden-chan/rek">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=eden-chan&repo=creak&theme=react" />
-</a>
-<a href="https://github.com/LemonFace0309/Study-Space">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=LemonFace0309&repo=Study-Space&theme=react" />
-</a> -->
 
  ## 📫 Follow me on:
 
-<a href="https://www.linkedin.com/in/eden-chan50/"> 
+<a href="https://www.linkedin.com/in/eden-chan50"> 
 <img src="https://raw.githubusercontent.com/eden-chan/eden-chan/main/assets/linkedin.png " height="40em" align="center" alt="LinkedIn" title="LinkedIn"/></a>
 
-<a href="https://www.instagram.com/eden_and_enow/"> 
+<a href="https://twitter.com/onlychans1"> 
+<img src="https://raw.githubusercontent.com/eden-chan/eden-chan/main/assets/substack.png " height="40em" align="center" alt="Twitter" title="Twitter"/></a>
+
+<a href="https://www.instagram.com/edenandnow"> 
 <img src="https://raw.githubusercontent.com/eden-chan/eden-chan/main/assets/instagram.svg " height="40em" align="center" alt="Instagram" title="Instagram"/></a>
 
-<a href="https://leetcode.com/edenchan/"> 
-<img src="https://raw.githubusercontent.com/eden-chan/eden-chan/main/assets/leetcode.png " height="40em" align="center" alt="LeetCode" title="LeetCode"/></a>
 
-<!-- <a href="https://edenchan.substack.com "> 
-<img src="https://raw.githubusercontent.com/eden-chan/eden-chan/main/assets/substack.png " height="40em" align="center" alt="Substack" title="Substack"/></a> -->
+<a href="https://www.tiktok.com/@onlychans1"> 
+<img src="https://raw.githubusercontent.com/eden-chan/eden-chan/main/assets/substack.png " height="40em" align="center" alt="TikTok" title="TikTok"/></a>
 
 
 
@@ -51,9 +42,10 @@ I also maintain a blog - you can find my articles on my website at [edenchan.sub
 
 <!-- links to social media accounts -->
 
-[1]: https://www.linkedin.com/in/eden-chan50/  "LinkedIn"
-[2]: https://www.instagram.com/eden_and_enow/ "Instagram"
-<!-- [3]: https://www.edenchan.substack.com/       "Substack" -->
+[1]: https://www.linkedin.com/in/eden-chan50  "LinkedIn"
+[2]: https://twitter.com/onlychans1 "Twitter"
+[3]: https://www.instagram.com/edenandnow "Instagram"
+[4]: https://www.tiktok.com/@onlychans1 "TikTok"
 <!-- [4]: https://www.youtube.com/                 "Youtube" -->
 
 
