@@ -1,14 +1,15 @@
 <!-- 
 [![Header](https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/readme_header.png "Header")](https://martinheinz.dev/) -->
 
-# Hi there, I'm Eden <img src="https://raw.githubusercontent.com/eden-chan/eden-chan/main/assets/wave.gif" width="30px">
-
-🎓 I'm a CS student @ University of Waterloo on co-op as a Frontend Engineer @reebee. <br>
+# Hi, I'm [Eden](https://chansawman.com) <img src="https://raw.githubusercontent.com/eden-chan/eden-chan/main/assets/wave.gif" width="30px">
 
 
-## &#x270d; Writing
-
-I also maintain a blog - you can find my articles on my website at [edenchan.substack.com](https://edenchan.substack.com)
+## I'm obsessed with traveling, startups, and building with LLMs and blockchain.
+My biggest takeaway from studying computer science student at the University of Waterloo is this: **hackathons and conferences are amazing excuses to travel!**
+I'm currently working on:
+- [CON the Devil's Advocate](https://lablab.ai/event/google-vertex-ai-hackathon/leapmind/complementary-opposing-views-con), a reading companion to make critical thinking a pro-social activity
+- Writing [silly stories](https://chansawman.substack.com/p/monkey-sea-monkey-do) to reflect on what I'm learning. I'm glad I find my past writing foolish; that means I'm growing in how I think and what I value.
+- Getting in the best shape of my life. Going to Africa and climbing Kilimanjaro made me realize how important my physical health is. 
 
 ## &#x1f4c8; GitHub Stats
 
@@ -17,20 +18,13 @@ I also maintain a blog - you can find my articles on my website at [edenchan.sub
 </a>
 
 
- ## 📫 Follow me on:
+ ## 📫 Reach out on:
 
-<a href="https://www.linkedin.com/in/eden-chan50"> 
+<a href="https://www.linkedin.com/in/edenchan42"> 
 <img src="https://raw.githubusercontent.com/eden-chan/eden-chan/main/assets/linkedin.png " height="40em" align="center" alt="LinkedIn" title="LinkedIn"/></a>
 
 <a href="https://twitter.com/onlychans1"> 
-<img src="https://raw.githubusercontent.com/eden-chan/eden-chan/main/assets/substack.png " height="40em" align="center" alt="Twitter" title="Twitter"/></a>
-
-<a href="https://www.instagram.com/edenandnow"> 
-<img src="https://raw.githubusercontent.com/eden-chan/eden-chan/main/assets/instagram.svg " height="40em" align="center" alt="Instagram" title="Instagram"/></a>
-
-
-<a href="https://www.tiktok.com/@onlychans1"> 
-<img src="https://raw.githubusercontent.com/eden-chan/eden-chan/main/assets/substack.png " height="40em" align="center" alt="TikTok" title="TikTok"/></a>
+<img src="https://raw.githubusercontent.com/eden-chan/eden-chan/main/assets/twitter.svg " height="40em" align="center" alt="Twitter" title="Twitter"/></a>
 
 
 
