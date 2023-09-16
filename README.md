@@ -4,12 +4,11 @@
 # Hi, I'm [Eden](https://chansawman.com) <img src="https://raw.githubusercontent.com/eden-chan/eden-chan/main/assets/wave.gif" width="30px">
 
 
-## I'm obsessed with traveling, startups, and building with LLMs and blockchain.
-My biggest takeaway from studying computer science student at the University of Waterloo is this: **hackathons and conferences are amazing excuses to travel!**
+## I'm coping with skill issue.
 I'm currently working on:
-- [CON the Devil's Advocate](https://lablab.ai/event/google-vertex-ai-hackathon/leapmind/complementary-opposing-views-con), a reading companion to make critical thinking a pro-social activity
+- Deploying natural language interfaces for industrial ERPs at [Bronco AI](https://bronco.ai)
 - Writing [silly stories](https://chansawman.substack.com/p/monkey-sea-monkey-do) to reflect on what I'm learning. I'm glad I find my past writing foolish; that means I'm growing in how I think and what I value.
-- Getting in the best shape of my life. Going to Africa and climbing Kilimanjaro made me realize how important my physical health is. 
+- Getting in the best shape of my life. Going to Africa to climb Kilimanjaro made me realize how important my physical health is.
 
 ## &#x1f4c8; GitHub Stats
 
@@ -38,16 +37,3 @@ I'm currently working on:
 
 [1]: https://www.linkedin.com/in/eden-chan50  "LinkedIn"
 [2]: https://twitter.com/onlychans1 "Twitter"
-[3]: https://www.instagram.com/edenandnow "Instagram"
-[4]: https://www.tiktok.com/@onlychans1 "TikTok"
-<!-- [4]: https://www.youtube.com/                 "Youtube" -->
-
-
-
-<!-- Resources -->
-<!-- Icons: https://simpleicons.org/ -->
-<!-- GitHub Stats: https://github.com/anuraghazra/github-readme-stats -->
-<!-- Emojis: https://emojipedia.org/emoji/ -->
-<!-- HTML Emojis: https://www.fileformat.info/index.htm -->
-<!-- Shields: https://shields.io/ -->
-<!-- Awesome GitHub Profile README: https://github.com/abhisheknaiidu/awesome-github-profile-readme -->
