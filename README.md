@@ -3,8 +3,6 @@
 
 # Hi, I'm [Eden](https://chansawman.com) <img src="https://raw.githubusercontent.com/eden-chan/eden-chan/main/assets/wave.gif" width="30px">
 
-
-## I'm coping with skill issue.
 I'm currently working on:
 - Deploying natural language interfaces for industrial ERPs at [Bronco AI](https://bronco.ai)
 - Writing [silly stories](https://chansawman.substack.com/p/monkey-sea-monkey-do) to reflect on what I'm learning. I'm glad I find my past writing foolish; that means I'm growing in how I think and what I value.
