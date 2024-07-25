@@ -3,17 +3,16 @@
 
 # Hi, I'm [Eden](https://chansawman.com) <img src="https://raw.githubusercontent.com/eden-chan/eden-chan/main/assets/wave.gif" width="30px">
 
-I'm currently working on:
-- Deploying natural language interfaces for industrial ERPs at [Bronco AI](https://bronco.ai)
-- Writing [silly stories](https://chansawman.substack.com/p/monkey-sea-monkey-do) to reflect on what I'm learning. I'm glad I find my past writing foolish; that means I'm growing in how I think and what I value.
-- Getting in the best shape of my life. Going to Africa to climb Kilimanjaro made me realize how important my physical health is.
+I'm currently interested in:
+- Interface driven tooling for thought at [Ideaflow](https://ideaflow.ai)
+- Collaborative annotations on PDFs [Treeline](https://treeline.vercel.app)
+- Representation learning for computer vision
 
 ## &#x1f4c8; GitHub Stats
 
 <a href="https://github.com/eden-chan">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=eden-chan&show_icons=true&line_height=27&count_private=true&theme=tokyonight" alt="Eden's GitHub Stats" />
 </a>
-
 
  ## 📫 Reach out on:
 
