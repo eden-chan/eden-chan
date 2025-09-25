@@ -1,11 +1,10 @@
 <!-- 
 [![Header](https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/readme_header.png "Header")](https://martinheinz.dev/) -->
 
-# Hi, I'm [Eden](https://bento.me/edenchan) <img src="https://raw.githubusercontent.com/eden-chan/eden-chan/main/assets/wave.gif" width="30px">
+# Hi, I'm [Eden](https://edenchan.ca) <img src="https://raw.githubusercontent.com/eden-chan/eden-chan/main/assets/wave.gif" width="30px">
 
 I'm currently interested in:
 - Interface driven tooling for thought at [Ideaflow](https://ideaflow.ai)
-- Collaborative annotations on PDFs [Treeline](https://treeline.vercel.app)
 - Representation learning with [Waterloo Vision and Image Processing Research Lab](https://vip.uwaterloo.ca/)
 
 ## &#x1f4c8; GitHub Stats
